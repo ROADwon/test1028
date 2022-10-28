@@ -8,4 +8,4 @@
 
   * 강사님으로 [이동](www.gihub.com/ldjwj)하기
   
-  ![고양이 이미지](https://media.istockphoto.com/photos/comfortable-rest-for-your-cat-picture-id1420018825)
+ 
